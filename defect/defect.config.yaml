@@ -1,0 +1,5 @@
+train: "/Users/kylewandishin/coding/pavesense/defect/data/images/train"
+val: "/Users/kylewandishin/coding/pavesense/defect/data/images/val"
+
+nc: 4
+names: [ "pothole", "crack", "vegitation", "barrier" ]

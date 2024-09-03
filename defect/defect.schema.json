@@ -1,0 +1,38 @@
+[
+  {
+    "name": "pothole",
+    "color": "#8c78f0",
+    "type": "rectangle",
+    "attributes": [
+      {
+        "name": "severity",
+        "input_type": "number",
+        "mutable": false,
+        "values": [
+          "1",
+          "3",
+          "1"
+        ],
+        "default_value": "1"
+      }
+    ]
+  },
+  {
+    "name": "cracks",
+    "color": "#ff355e",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "vegetation",
+    "color": "#24b353",
+    "type": "any",
+    "attributes": []
+  },
+  {
+    "name": "barriers",
+    "color": "#f078f0",
+    "type": "any",
+    "attributes": []
+  }
+]

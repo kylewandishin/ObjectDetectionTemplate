@@ -1,0 +1,12 @@
+# dev stuff
+**.venv
+*.log
+
+# YOLO STUFF
+**/data/**.jpg
+**/data/**.txt
+runs
+
+# Python stuff
+__pycache__
+**/__pycache__

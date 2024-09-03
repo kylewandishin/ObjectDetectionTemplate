@@ -1,0 +1,5 @@
+train: "/Users/kylewandishin/coding/pavesense/plate/data/images/train"
+val: "/Users/kylewandishin/coding/pavesense/plate/data/images/val"
+
+nc: 1
+names: [ "plate" ]
